@@ -1,1 +1,20 @@
-
+li a{color: #aa0000}
+h1, h2, h3{color: #aa0000}
+em{color: #55aa00}
+.heading{background-color:#00aaaa;padding: 20px}
+.heading h1{color:#fff; text-shadow:10px 7px 7px #000000}
+.heading h2{color:#fff; text-shadow:10px 7px 7px #000000}
+.heading3 h3{color: #000}
+body{width: 960px;}
+.side-bar{width:20%;padding:2%;}
+.main-content{width:75%;float: right}
+.footer{-webkit-columns: 100px 4;text-decoration: none;}
+table{float: left}
+.article{
+  -webkit-columns: 100px 3;
+}
+a:hover{text-decoration: underline}
+a{text-decoration: none;}
+ol{list-style:upper-roman}
+ul{list-style: square}
+.article ul{list-style: none}
