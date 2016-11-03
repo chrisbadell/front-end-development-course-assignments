@@ -1,0 +1,39 @@
+em{
+color: #55aa00}
+header{
+background-color:#00aaaa;padding: 20px}
+header h1, header h2{
+color:#fff;
+text-shadow:10px 7px 7px #000000}
+aside h3{
+color: #000}
+h1, h2, h3, li a{
+color: #aa0000}
+body{
+width:960px}
+aside{
+width:20%;
+padding:2%}
+article{
+width:75%;
+float: right
+}
+footer{
+clear:both;
+-webkit-columns:100px 4;
+text-decoration: none;
+padding-left: 275px;
+padding-bottom: 75px;
+padding-top: 20px}
+
+section{
+-webkit-columns: 100px 3;}
+a:hover{
+text-decoration: underline}
+a{
+text-decoration: none;}
+ol{
+list-style:upper-roman}
+ul{
+list-style: square}
+section ul{list-style: none;}
