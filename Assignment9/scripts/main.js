@@ -1,4 +1,9 @@
 
+var name = "chris badell";
+document.getElementById('partOne').innerHTML = name;
+
+var foo ="testing";
+foo ="This is not an intager"
 
 
 
@@ -7,11 +12,7 @@
 
 
 
-
-
-
-
-var part6Number =getRandomNumber(); 
+var part6Number =getRandomNumber();
 
 /**
  *      Part 7
