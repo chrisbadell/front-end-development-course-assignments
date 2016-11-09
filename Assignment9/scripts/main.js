@@ -2,8 +2,12 @@
 var name = "chris badell";
 document.getElementById('partOne').innerHTML = name;
 
-var foo ="testing";
+var foo = "testing";
 foo ="This is not an intager"
+document.getElementById('partTwo').innerHTML = foo;
+
+var partThree = 5;
+
 
 
 
